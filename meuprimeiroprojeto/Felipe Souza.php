@@ -10,8 +10,8 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-    <h1> vamo lá né </h1>
-    <a href="index.html">tá bom</a>
+    <h1> Cachoeirinha > Gravataí </h1>
+    <a href="index.html">É isso memo</a>
     
         <?php?>
     </body>
